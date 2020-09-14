@@ -1,6 +1,9 @@
 ## Increment Frontend
 Simple UI to login into increment_api hosted at: [https://increment-api.herokuapp.com](https://increment-api.herokuapp.com/signup)
 
+## API
+View code base located at: [https://github.com/martinechtner/increment_api](https://github.com/martinechtner/increment_api)
+
 ## Available Scripts
 
 In the project directory, you can run:
